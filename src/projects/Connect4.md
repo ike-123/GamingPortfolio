@@ -9,4 +9,4 @@ skills:
   - Multidimensional arrays
   - Trail Renderer
 ---
-Connect 4 game i built with Unity
+Connect 4 game I built with Unity

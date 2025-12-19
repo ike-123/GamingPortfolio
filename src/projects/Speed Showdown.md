@@ -10,4 +10,6 @@ skills:
   - Advanced 3d animation
   - Unity HDRP
 ---
-This Project isn’t technically a game, however serves as a showcase of another successful project I made in Unity. Using Unity I was able to create accurate racing simulations of athletes like Usain Bolt and Mbappe. I was able to upload these videos on YouTube and have amassed over 7 million views on the channel SpeedShowdown.
+This isn’t a game, however still serves as a showcase of another successful project I made in Unity.
+
+ I used Unity to create accurate 3d racing simulations. My goal was to produce engaging head to head races that are impractical or imppossible to do in real life, such as Usain Bolt racing a Cheetah. These simulation were uploaded to Youtube and have amassed over 7 million views on the channel SpeedShowdown.

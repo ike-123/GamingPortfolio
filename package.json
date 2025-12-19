@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.1.2",
@@ -17,6 +19,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
     "daisyui": "^5.5.14",
+    "gh-pages": "^6.3.0",
     "gray-matter": "^4.0.3",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
