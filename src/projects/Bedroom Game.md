@@ -4,7 +4,7 @@ title: Bedroom Game
 date:  NOV 2024 – DEC 2021
 engine: Unity
 platform: Windows
-picture: ./public/room game.png
+picture: room game.png
 skills:
   - Inverse Kinematics
   - Rigidbody movment

@@ -6,7 +6,7 @@ engine: Unity
 platform: Windows
 github: https://github.com/ike-123/Gamedev-GameJam
 itch:  https://ike3.itch.io/death-quest
-picture: ./public/DeathQuest.png
+picture: DeathQuest.png
 skills:
   - Developing under strict time constraints
   - C# Interfaces

@@ -4,7 +4,7 @@ title: Battle Royale Game
 date: JUN 2024 – SEP 2024
 engine: Unreal
 platform: Windows
-picture: ./public/BattleRoyale.png
+picture: BattleRoyale.png
 skills:
   - Unreal Reflection System
   - Blueprints
