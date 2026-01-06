@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
     return (
 
-        <div className="hero bg-base-200 min-h-[65vh] mb-30 rounded-b-2xl">
+        <div className="hero  border border-base-content/10 bg-base-200 min-h-[65vh] mb-30 rounded-b-2xl">
             <div className="hero-content text-center">
                 <div className="max-w-md">
                     <h1 className="text-7xl font-bold">Ik Onugha</h1>
