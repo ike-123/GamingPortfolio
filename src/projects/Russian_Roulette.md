@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 9
 title: Russian Roulette
 date: MAR 2026 – Now
 engine: Unity
@@ -10,4 +10,4 @@ skills:
   - Building to IOS
   - Clean code patterns
 ---
-A mobile endless runner game that I developed to increase my experience working on mobile games. This is still currently being worked on and will be used for an exciting, secretive project that will be released in the future.
+A Multiplayer typing game developed for my typing website
